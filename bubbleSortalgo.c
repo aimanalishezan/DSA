@@ -1,7 +1,7 @@
 //first you need to declare an array of data
-//outter loop will count the itiration 
-//and the inner loop will count the index number of the array 
-//create a swapping sys make a temp then it will compare and swappe 
+//outter loop will count the itiration
+//and the inner loop will count the index number of the array
+//create a swapping sys make a temp then it will compare and swappe
 #include <stdio.h>
 int main()
 {
@@ -24,7 +24,7 @@ int main()
     }
     
     }
-    for (i = 0; i < n; i++)//it will print the full array 
+    for (i = 0; i < n; i++)//it will print the full array
 		printf("%d ", arr[i]);
 	printf("\n");
 }
